@@ -1,0 +1,32 @@
+[
+ {
+  "id": 1,
+  "title": "Gorra Roja",
+  "price": 1200,
+  "thumbnail": "https://static4.depositphotos.com/1000261/339/i/450/depositphotos_3394871-stock-photo-red-baseball-cap.jpg"
+ },
+ {
+  "id": 2,
+  "title": "Gorra Azul",
+  "price": 1400,
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_785389-MLA46729814076_072021-O.webp"
+ },
+ {
+  "id": 3,
+  "title": "Gorra Gris",
+  "price": 1300,
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_788544-MLA49808447673_042022-W.jpg"
+ },
+ {
+  "id": 4,
+  "title": "Gorra Negra",
+  "price": 1800,
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_946286-MLA49448249941_032022-W.jpg"
+ },
+ {
+  "id": 5,
+  "title": "Gorra Verde",
+  "price": 1000,
+  "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_848691-MLA48579418881_122021-W.jpg"
+ }
+]

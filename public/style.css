@@ -1,0 +1,46 @@
+*{
+margin-left:25px
+}
+.listmain{
+    background-color: rgb(255, 255, 255);
+    max-width: 350px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.image{
+    max-width: 70px;
+    max-height: 70px;
+}
+.botonVolver{
+    margin-left: 100px;
+}
+h2{
+    margin-left: 50px;
+    
+}
+.cuerpoform{
+    background-color: rgb(149, 150, 149);
+    max-width: 350px;
+    margin-left: 50px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 4;
+}
+.email{
+    font-weight: bold;
+    color: blue;
+}
+.mensaje{
+    color: darkgreen;
+    font-style: italic;
+}
+.time{
+color: brown;
+}
+.mensajelist{
+    display: flex;
+}
+.chatclass{
+    margin-left: 50px;
+}
